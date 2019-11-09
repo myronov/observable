@@ -1,2 +1,0 @@
-# observable
-Created with CodeSandbox
